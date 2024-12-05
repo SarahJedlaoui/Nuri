@@ -7,8 +7,9 @@ import Aboutus from "../Aboutus/index";
 import Articles from "../Articles/index";
 import Articles2 from "../Articles2/index";
 import Footer from "../Footer/index";
-
+import { useRouter } from "next/navigation"; 
 export default function Nuri() {
+  const router = useRouter(); // Initialize the router
   const [messages, setMessages] = useState<
     { sender: "user" | "bot"; content: string | React.ReactNode }[]
   >([]);
@@ -81,7 +82,8 @@ export default function Nuri() {
             <source src="/images/articles/podcast.mp3" type="audio/mpeg" />
             Your browser does not support the audio element.
           </audio>
-          <button className="mt-4 bg-blue text-white px-4 py-2 rounded-xl shadow-md hover:bg-blue-600">
+          <button  onClick={() => router.push("/podcast")} 
+          className="mt-4 bg-blue text-white px-4 py-2 rounded-xl shadow-md hover:bg-blue-600">
             Edit Podcast
           </button>
         </div>
