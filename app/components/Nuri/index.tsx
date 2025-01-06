@@ -125,7 +125,7 @@ export default function Nuri() {
   return (
     <main className="flex-row lg:flex md:flex h-screen bg-gray-50">
       {/* Left Chat Section */}
-      <div className="lg:w-1/4 h-full flex flex-col bg-white rounded-xl shadow-xl">
+      <div className="lg:w-1/4 h-90 flex flex-col bg-white rounded-xl shadow-xl overflow-y-auto max-h-screen">
         {/* Chat Messages */}
         <div className="bg-gray-100 p-4 rounded-xl shadow-xl flex items-start space-x-3">
           <div className="flex-shrink-0">
