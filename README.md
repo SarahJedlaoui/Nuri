@@ -68,35 +68,15 @@
 
 ### Example Conversations with the AI Assistant
 #### Doctors requesting AI to add sections:
-![Screenshot 1](path-to-screenshot1.png)
+![Screenshot 1](screen 6.png)
 
 #### AI recommending ADHD podcasts and other resources:
-![Screenshot 2](path-to-screenshot2.png)
-
-#### Personalizing the display format for content:
-![Screenshot 3](path-to-screenshot3.png)
-
-#### Finalized website layout for patient interaction:
-![Screenshot 4](path-to-screenshot4.png)
+![Screenshot 2](screen 8.png)
 
 ---
 
 ## 🌐 Getting Started
 
-### Prerequisites
-Ensure you have:
-- A NURI account.
-- Basic information about the content you’d like to showcase on your website.
-
-### Steps to Begin
-1. **Sign Up**:
-   - Register for an account on the NURI platform.
-2. **Start Customizing**:
-   - Chat with the AI assistant to add and personalize sections for your website.
-3. **Publish Your Website**:
-   - Save and publish your professional website to engage your patients.
-
----
 
 ## ✨ Future Roadmap
 
@@ -112,4 +92,3 @@ If you find NURI helpful, give this repository a ⭐ to support us and help othe
 
 ---
 
-This `README.md` is complete and formatted to include all the relevant information about the project, its features, and usage instructions. Let me know if you’d like to add or modify any sections! 🚀
