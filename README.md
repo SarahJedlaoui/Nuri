@@ -68,10 +68,10 @@
 
 ### Example Conversations with the AI Assistant
 #### Doctors requesting AI to add sections:
-![Screenshot 1](screen 6.png)
+![Screenshot 1](Screen6.png)
 
 #### AI recommending ADHD podcasts and other resources:
-![Screenshot 2](screen 8.png)
+![Screenshot 2](Screen8.png)
 
 ---
 
